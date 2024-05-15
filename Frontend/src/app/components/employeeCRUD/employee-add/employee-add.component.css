@@ -1,0 +1,15 @@
+.menu {
+    padding-top: 20px;
+    padding-right: 15px;
+  }
+  
+  .menu ul {
+    list-style: none;
+  }
+  .admin{
+    text-align: left;
+  }
+  .user{
+    text-align: right;
+        
+} 
